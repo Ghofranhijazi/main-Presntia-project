@@ -51,11 +51,11 @@ Welcome to **Presentia Store**! This project showcases an e-commerce platform fe
 ## Figma Wireframe and Mockup
 
 Explore the wireframes and mockups for the project design on Figma:  
-[Access the Figma Wireframe & Mockup]([#](https://www.figma.com/design/your-figma-link))
+[Access the Figma Wireframe & Mockup](https://www.figma.com/design/your-figma-link)
 
 ---
 
 ## Trello Board
 
 Track project progress and tasks on Trello:  
-[Trello Board# main-presntia-project]([#](https://trello.com/b/yRNoKGDm/project-js))
+[Trello Board# main-presntia-project](https://trello.com/b/yRNoKGDm/project-js)
